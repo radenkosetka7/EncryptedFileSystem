@@ -1,0 +1,2 @@
+V	220626120421Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Milana/emailAddress=milana@gmail.com
+V	220626120652Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Radenko/emailAddress=radenko@gmail.com
