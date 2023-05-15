@@ -19,6 +19,8 @@ file, after which it is saved on the file system,
 the file is decrypted before downloading,
 - changing the contents of the (text) file,
 - file deletion.
+
+
 The system also offers an easy way to share files, using a unique share
 directory. A user who wants to share a file with another user should leave
 file to a shared directory, so that only the intended user can
